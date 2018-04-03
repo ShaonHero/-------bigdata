@@ -1,0 +1,1 @@
+kafka接受模拟的日志文件，处理数据，传入spark streaming中，存入hbase中
